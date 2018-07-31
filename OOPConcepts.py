@@ -1,5 +1,5 @@
+#!usr/bin/python
 # A program to create different animals
-
 class Animal:
 
     def __init__(self, name, color):
